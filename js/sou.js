@@ -374,7 +374,7 @@ function quickData() {
     var quick_list = getQuickList();
     for (var i in quick_list) {
         html += "<li class='quick' title='" + quick_list[i]['explain'] + "'>\
-                        <a href='" + quick_list[i]['url'] + "'>\
+                        <a href='" + quick_list[i]['url'] + "' target='_blank'>\
                             <i style='background-image: url(" + quick_list[i]['img'] + ");'></i>\
                             " + quick_list[i]['title'] + "\
                         </a>\

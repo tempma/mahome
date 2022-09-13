@@ -38,10 +38,10 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "哔哩哔哩",
-        url: "https://www.bilibili.com/",
+        title: "mahome'blog",
+        url: "http://blog.Mahome.fun",
         img: "./icon/bilibili.png",
-        explain: "哔哩哔哩 (゜-゜)つロ 干杯~",
+        explain: "mahome'blog (゜-゜)つロ 干杯~",
     },
     '2': {
         title: "GitHub",
@@ -50,22 +50,22 @@ var quick_list_preinstall = {
         explain: "GitHub",
     },
     '3': {
-        title: "V2EX",
-        url: "https://www.v2ex.com/",
+        title: "群晖",
+        url: "https://192.168.50.50",
         img: "./icon/v2ex.png",
-        explain: "V2EX",
+        explain: "群晖",
     },
     '4': {
-        title: "Steam",
-        url: "https://store.steampowered.com/",
+        title: "google",
+        url: "https://www.google.com/",
         img: "./icon/steam.ico",
-        explain: "Steam",
+        explain: "google",
     },
     '5': {
-        title: "scp基金会",
-        url: "http://scp-wiki-cn.wikidot.com/",
+        title: "youtube",
+        url: "https://www.youtube.com/",
         img: "./icon/scp.png",
-        explain: "控制，收容，保护",
+        explain: "youtube",
     },
 };
 

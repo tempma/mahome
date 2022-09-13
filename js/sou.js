@@ -24,7 +24,7 @@ var se_list_preinstall = {
         title: "谷歌",
         url: "https://www.google.com/search",
         name: "q",
-        img: "./icon/google_1.png",
+        img: "./icon/google.png",
     },
     '3': {
         id: 3,
@@ -52,19 +52,19 @@ var quick_list_preinstall = {
     '3': {
         title: "群晖",
         url: "https://192.168.50.50",
-        img: "./icon/v2ex.png",
+        img: "./icon/NAS.png",
         explain: "群晖",
     },
     '4': {
         title: "google",
         url: "https://www.google.com/",
-        img: "./icon/steam.ico",
+        img: "./icon/google.png",
         explain: "google",
     },
     '5': {
         title: "youtube",
         url: "https://www.youtube.com/",
-        img: "./icon/scp.png",
+        img: "./icon/youtube.png",
         explain: "youtube",
     },
 };

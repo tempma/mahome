@@ -64,7 +64,7 @@ var quick_list_preinstall = {
     '5': {
         title: "File Browser",
         url: "http://192.168.50.222:8080/",
-        img: "./icon/FileBrowser.png",
+        img: "./icon/FileBrowser.svg",
         explain: "File Browser",
     },
 };

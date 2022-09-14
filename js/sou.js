@@ -62,10 +62,10 @@ var quick_list_preinstall = {
         explain: "qBittorrent",
     },
     '5': {
-        title: "youtube",
-        url: "https://www.youtube.com/",
-        img: "./icon/youtube.png",
-        explain: "youtube",
+        title: "File Browser",
+        url: "http://192.168.50.222:8080/",
+        img: "./icon/FileBrowser.png",
+        explain: "File Browser",
     },
 };
 

@@ -56,10 +56,10 @@ var quick_list_preinstall = {
         explain: "群晖",
     },
     '4': {
-        title: "google",
-        url: "https://www.google.com/",
-        img: "./icon/google.png",
-        explain: "google",
+        title: "qBittorrent",
+        url: "http://192.168.50.222:8083/",
+        img: "./icon/qBittorrent.png",
+        explain: "qBittorrent",
     },
     '5': {
         title: "youtube",
@@ -95,7 +95,7 @@ var themes_preinstall = {
 
 //背景图片
 var bg_img_preinstall = {
-    "type" : "3",// 1:使用主题默认的背景图片、2:关闭背景图片、3:使用自定义的背景图片
+    "type" : "2",// 1:使用主题默认的背景图片、2:关闭背景图片、3:使用自定义的背景图片
     "path" : "https://cdn.jsdelivr.net/gh/yeetime/img/20200627173550.png",//背景图片
 };
 

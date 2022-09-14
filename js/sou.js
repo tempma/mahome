@@ -58,7 +58,7 @@ var quick_list_preinstall = {
     '4': {
         title: "qBittorrent",
         url: "http://192.168.50.222:8083/",
-        img: "./icon/qBittorrent.png",
+        img: "./icon/qBittorrent.svg",
         explain: "qBittorrent",
     },
     '5': {

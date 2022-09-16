@@ -38,7 +38,7 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "mahome'blog",
+        title: "MH'Blog",
         url: "http://blog.Mahome.fun",
         img: "./icon/bilibili.png",
         explain: "mahome'blog (゜-゜)つロ 干杯~",

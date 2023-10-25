@@ -38,10 +38,10 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "MH'Blog",
-        url: "http://blog.Mahome.fun",
+        title: "My'NAS",
+        url: "https://qlinkto.cn/airma",
         img: "./icon/bilibili.png",
-        explain: "mahome'blog (゜-゜)つロ 干杯~",
+        explain: "mahome'Nas (゜-゜)つロ 干杯~",
     },
     '2': {
         title: "GitHub",
